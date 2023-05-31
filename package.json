@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-v2-backend",
+  "version": "1.0.0",
+  "description": "portfolio-v2-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrettBuhler/portfolio-v2-backend.git"
+  },
+  "author": "Brett Buhler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrettBuhler/portfolio-v2-backend/issues"
+  },
+  "homepage": "http://localhost:5000/",
+  "dependencies": {
+    "dotenv": "^16.1.1",
+    "express": "^4.18.2"
+  }
+}
